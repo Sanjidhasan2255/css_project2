@@ -76,6 +76,8 @@ img{
 .hero_area .hero_left,
 .hero_area .hero_right{
     width: 50%;
+    position: relative;
+    float: left;
 }
 
 .hero_right{
